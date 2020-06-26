@@ -1,7 +1,8 @@
 # Mastering-Metrics
 The Path from Cause to Effect
+Slides: [HERE](https://docs.google.com/presentation/d/1nCwYssVy_gxzqz6hXu20ugtnxeluEIKpUAL5gP7mSkU/edit?usp=sharing)
 
-## Chapter Slides
+## Chapter Slides (More detailed)
 Chapter 1: Randomized Trials
 
 Chapter 2: [Regression](https://docs.google.com/presentation/d/1McOl8zVhCoE_NqU-rMWvh_LJV87hUvsMJaxxRezMS4I/edit?usp=sharing)
